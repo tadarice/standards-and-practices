@@ -50,6 +50,7 @@ Format:
 | Adam Jasiura | [BigBlue79](https://github.com/BigBLue79) | Got a handful of Ruby/Rails and vanilla JS hours under my belt.  Using this to flex out of my comfort zone and daily code duties a a data aggregator. |    
 | Adam W. Goh | [adamwgoh](https://github.com/adamwgoh) | understands the fundamental of C/C++ and Java, getting used to Python and loves some programming time under my belt.|
 | Adam Novitch | [adamnovitch](https://github.com/adamnovitch) | Intermediate level C/C++, Qt, Java.  Beginner with Python, HTML/CSS, SQL. |
+|Adam Price | [tadarice](https://github.com/tadarice) | I come from a .NET background using VB.NET(initially) and switched over to C#. I have strong HTML, CSS, and Javascript skills. I am getting my hands dirty with the newer Javascript libraries like Angular and Backbone and just want to start trying my hands at some open source projects in my free time. |
 | Abdul-Raheem Tawheed| [tawrahim](https://github.com/tawrahim) | I teach kids how to program in python and am also learning ruby at the same time |
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
 | Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
@@ -278,4 +279,3 @@ Format:
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
-|T. Adam Price | [tadarice](https://github.com/tadarice) | I come from a .NET background using VB.NET(initially) and switched over to C#. I have strong HTML, CSS, and Javascript skills. I am getting my hands dirty with the newer Javascript libraries like Angular and Backbone and just want to start trying my hands at some open source projects in my free time. ||
